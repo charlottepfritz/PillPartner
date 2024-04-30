@@ -3,8 +3,11 @@
  <img src="https://github.com/charlottepfritz/PillPartner/assets/133656144/830e4907-d379-437c-a257-d3d3e301c73a">
  <!-- <img src="https://github.com/charlottepfritz/PillPartner/assets/133656144/830e4907-d379-437c-a257-d3d3e301c73a?pngraw=true">-->
  <img src="https://github.com/charlottepfritz/PillPartner/assets/133656144/8915a91d-e9eb-4da7-a34c-15b9695bc933">
+  <img src="https://github.com/charlottepfritz/PillPartner/assets/133656144/5faf842f-4498-4b39-a12b-20bdb44e719f">
+
  <div align="center"> By Charlotte Fritz & Sean Pourgoutzidis </div>
 </div>
+
 
 ## Overview
 
