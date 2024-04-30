@@ -1,6 +1,6 @@
 # PillPartner | Designing an Automated Pill Dispenser
 
-![Automated Pill Dispenser](images/pill_dispenser.jpg](https://github.com/charlottepfritz/PillPartner/assets/133656144/830e4907-d379-437c-a257-d3d3e301c73a)
+![Automated Pill Dispenser](https://github.com/charlottepfritz/PillPartner/assets/133656144/830e4907-d379-437c-a257-d3d3e301c73a)
 ## Overview
 
 This project aims to create an automated pill dispenser using various hardware components and microcontrollers. The system is designed to dispense pills at scheduled times, ensuring medication adherence for users. The dispenser utilizes a combination of servo motors, LCD screen, motor driver, push buttons, LEDs, buzzer, Arduino Uno, ESP8266 WiFi module, and STM32 microcontroller.
