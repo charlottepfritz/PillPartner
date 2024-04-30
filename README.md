@@ -1,4 +1,7 @@
-<h1 align="center"> PillPartner  <p> By Charlotte Fritz & Sean Pourgoutzidis </p> </h1>
+<div align="center">
+  <h1>PillPartner</h1>
+  <p>By Charlotte Fritz & Sean Pourgoutzidis</p>
+</div>
 
 <div align="center">
  <img src="https://github.com/charlottepfritz/PillPartner/assets/133656144/830e4907-d379-437c-a257-d3d3e301c73a">
