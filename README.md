@@ -1,4 +1,4 @@
-# PillPartner | Designing an Automated Pill Dispenser
+# PillPartner 
 
 ![Automated Pill Dispenser](https://github.com/charlottepfritz/PillPartner/assets/133656144/830e4907-d379-437c-a257-d3d3e301c73a)
 ## Overview
