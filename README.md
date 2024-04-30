@@ -39,5 +39,5 @@ This project was done as a part of ECE342 at the University of Toronto during Wi
 
 ## Final Product and Further Information
 
-For information on our results and further explanation of the project, please check out our [official report](https://drive.google.com/file/d/1k8KF6Ui9yT2awSPM993zoFm_6jhEKOsA/view?usp=sharing) and our [video presentation](https://drive.google.com/file/d/19rEmTvcj-dvJqhJ7uodOpZdjCWpxrR81/view?usp=drive_link)!
+To learn more about our project, please check out our [final demonstration](https://docs.google.com/presentation/d/1RDwtD4b8-Grs9R-lkKW386Tzc2WU7tst5xYdCDOw14k/edit)!
 
