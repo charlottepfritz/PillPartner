@@ -1,6 +1,13 @@
 # PillPartner | Designing an Automated Pill Dispenser
 
-![Automated Pill Dispenser](https://github.com/charlottepfritz/PillPartner/assets/133656144/830e4907-d379-437c-a257-d3d3e301c73a)(https://github.com/charlottepfritz/PillPartner/assets/133656144/56ee973e-ba38-4fd4-a420-d4019c929c3c)
+<div style="display:flex;">
+  <div style="flex:1; margin-right:10px;">
+    <img src="https://github.com/charlottepfritz/PillPartner/assets/133656144/830e4907-d379-437c-a257-d3d3e301c73a" alt="Automated Pill Dispenser 1" style="width:100%;">
+  </div>
+  <div style="flex:1;">
+    <img src="[images/pill_dispenser2.jpg](https://github.com/charlottepfritz/PillPartner/assets/133656144/56ee973e-ba38-4fd4-a420-d4019c929c3c)" alt="Automated Pill Dispenser 2" style="width:100%;">
+  </div>
+</div>
 
 
 ## Overview
