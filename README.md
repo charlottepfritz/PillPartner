@@ -30,6 +30,7 @@ This project was done as a part of ECE342 at the University of Toronto during Wi
 - Buzzer
 - Miscellaneous electronic components (resistors, wires, etc.)
 
+
 ## Software Requirements
 
 - Arduino IDE
@@ -41,3 +42,4 @@ This project was done as a part of ECE342 at the University of Toronto during Wi
 
 To learn more about our project, please check out our [final demonstration](https://docs.google.com/presentation/d/1RDwtD4b8-Grs9R-lkKW386Tzc2WU7tst5xYdCDOw14k/edit)!
 
+<img src="https://github.com/charlottepfritz/PillPartner/assets/133656144/8915a91d-e9eb-4da7-a34c-15b9695bc933">
